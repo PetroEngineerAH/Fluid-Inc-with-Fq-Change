@@ -14,7 +14,7 @@ Water_Cut = (Liquid_Rates - Oil_Rates)/Liquid_Rates    #%
 
 Pwf = 1100              #psi 
 
-Pr = 4100               #psi 
+Pr = 4200               #psi 
 
 Productivity_Index = (Liquid_Rates)/(Pr - Pwf)         #bbl/d/psi
 
